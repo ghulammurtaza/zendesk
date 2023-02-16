@@ -1,0 +1,18 @@
+{
+    "name": "southerngreeninc/zendesk",
+    "description": "bridge to link crm and zd",
+    "authors": [
+        {
+            "name": "ghulam murtaza",
+            "email": "1614410+ghulammurtaza@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "zendesk/zendesk_api_client_php": "^2.2"
+    },
+    "config": {
+        "platform": {
+            "php": "7.2.10"
+        }
+    }
+}
